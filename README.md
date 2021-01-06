@@ -24,6 +24,13 @@ MIT
 
 # Sentiment Analysis plugin for compromise.js
 
+### TODOs
+- [ ] Implement API
+- [ ] Move scripts to scripts/ directory
+- [ ] Write tests
+- [ ] Add to README, this library can be extended, it currently only supports
+    english.
+
 ### Data Sources
-* [https://github.com/NaturalNode/natural/blob/master/lib/natural/sentiment/English/pattern-sentiment-en.json](NaturalNode Pattern Sentiment)
-* [https://github.com/words/afinn-165](AFINN 165)
+* [NaturalNode Pattern Sentiment](https://github.com/NaturalNode/natural/blob/master/lib/natural/sentiment/English/pattern-sentiment-en.json)
+* [AFINN 165](https://github.com/words/afinn-165)
